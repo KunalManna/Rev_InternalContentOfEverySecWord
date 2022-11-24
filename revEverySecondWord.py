@@ -1,4 +1,4 @@
-# Revese every second word a string
+# Revese internal content of every second word a string
 
 def revEverySecWord(s):
     p=s.split()
